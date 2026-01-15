@@ -15,3 +15,5 @@ xmind文件配合xmind8最佳
 .km可通过文本搜索查找关键词
 ```
 <img width="1466" height="536" alt="image" src="https://github.com/user-attachments/assets/dd5a8c6b-9c6c-4e05-a204-08e18b0285fa" />
+<img width="920" height="477" alt="image" src="https://github.com/user-attachments/assets/24b275f1-91e1-4e34-bec0-d68fc71d04f5" />
+
